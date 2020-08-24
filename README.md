@@ -1,0 +1,1 @@
+# Terraform-quick-azuretest
