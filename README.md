@@ -5,4 +5,4 @@
 3. `terraform init`
 4. `terraform plan`
 5. `terraform apply`
-6. `terraform destory`
+6. `terraform destroy`
